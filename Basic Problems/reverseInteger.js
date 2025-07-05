@@ -20,3 +20,5 @@ var reverse = function (x) {
 
     return x < 0 ? -reverseInteger : reverseInteger  //if given number is negative we return it as a negative reverse integer
 };
+
+//problem link : https://leetcode.com/problems/reverse-integer/description/
